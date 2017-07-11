@@ -15,4 +15,4 @@ http://www.professorwidom.org/materials/
 about ibadan ACM
 https://acmng.acm.org/
 
-the futa acm chapter is still on construction but will be landing soon.
+the futa acm chapter website is still on construction but will be landing soon.
